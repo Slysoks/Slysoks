@@ -1,0 +1,20 @@
+:root {
+    --black: #0D1B2A;
+    --white: #F8F9FA;
+}
+
+body {
+    background-color: var(--black);
+    color: white;
+}
+
+header {
+    background-color: var(--white);
+    color: var(--black);
+    padding: 1rem;
+    text-align: center;
+
+    & .name {
+        font-size: 2rem;
+    }
+}
