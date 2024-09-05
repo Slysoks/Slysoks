@@ -22,10 +22,17 @@
                 <br>
                 <br>
                 Next, I started learning HTML and CSS with
-                <a href="https://www.magicmakers.fr/" target="_blank">
+                <a 
+                    href="https://www.magicmakers.fr/"
+                    target="_blank"
+                    class="
+                        underline-animation
+                        text-link
+                    "
+                >
                     Magic Makers
-                </a>
-                . Then I learned a bit of JavaScript. My favorite game is and will always be Minecraft.
+                </a>.
+                Then I learned a bit of JavaScript. My favorite game is and will always be Minecraft.
                 One day, I saw a video of a guy who created a Minecraft launcher. I was so impressed
                 that I decided to create my own. That's how I discovered the magic of Node.js with
                 electron.
