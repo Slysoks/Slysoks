@@ -13,21 +13,24 @@
     <main>
         <section>
             <p class="short-presentation">
-                Hi, I'm Slysoks and I'm <span id="age"></span>. My real name is Nathan. 
+                Hi, I'm Slysoks and I was born on March 15 2009. My real name is Nathan. 
                 Since I was still a child, I've always been passionate about computers and technology.
                 I started programming at the age of 10, when my father showed me Scratch, by the MIT.
                 That was the beginning of my journey in the programming world. I next created basic
                 programs in Python. That's were I discovered my passion for programming without
                 any graphical interface.
+                <br>
+                <br>
+                Next, I started learning HTML and CSS with
+                <a href="https://www.magicmakers.fr/" target="_blank">
+                    Magic Makers
+                </a>
+                . Then I learned a bit of JavaScript. My favorite game is and will always be Minecraft.
+                One day, I saw a video of a guy who created a Minecraft launcher. I was so impressed
+                that I decided to create my own. That's how I discovered the magic of Node.js with
+                electron.
             </p>
         </section>
     </main>
-    <script>
-        const birthday = new Date('March 15 2009');
-        const today = new Date();
-        const difference = today - birthday;
-        const age = new Date(difference);
-        document.getElementById('age').innerText = age.getFullYear() - 1970;
-    </script>
 </body>
 </html>
