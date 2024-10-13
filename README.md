@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Slysoks
 
 ## Biography
-I was born in 2009 and I'm a French student from Joliot-Curie High School in Rennes. Since I was a child, I've always been passionate about computers and technology. I also practice tennis and love spatial sciences. I'm a big fan of SpaceX and their innovations, such as reusable rockets and their Starship rocket. I love video games such as Minecraft, Rocket League, and many more.
+I was born in 2009 and I'm a fullstack developper French student from Joliot-Curie High School in Rennes. Since I was a child, I've always been passionate about computers and technology. I also practice tennis and love spatial sciences. I'm a big fan of SpaceX and their innovations, such as reusable rockets and their Starship rocket. I love video games such as Minecraft, Rocket League, and way more.
 
 ## My Journey
 
